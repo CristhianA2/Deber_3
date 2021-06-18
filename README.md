@@ -1,6 +1,6 @@
 # Deber_3
 # OBJETIVOS
-
+![A](https://user-images.githubusercontent.com/85193519/122585503-2f3da780-d021-11eb-9bcb-a56d0b51cc94.jpg)
 # MARCO TEORICO
 
 # EXPLICACION Y RESOLUCION DE EJERCICIOS
