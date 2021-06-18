@@ -2,7 +2,7 @@
 # OBJETIVOS
 ![A](https://user-images.githubusercontent.com/85193519/122585503-2f3da780-d021-11eb-9bcb-a56d0b51cc94.jpg)
 # MARCO TEORICO
-
+![CUADRO](https://user-images.githubusercontent.com/85193519/122594346-85fcae80-d02c-11eb-8c58-a0be0d091eb4.jpg)
 # EXPLICACION Y RESOLUCION DE EJERCICIOS
 ![ba97b1709dfc8fa6aeae24fd4af9ac4d-0](https://user-images.githubusercontent.com/85193519/122583525-f4d30b00-d01e-11eb-90dd-e6a86c8162d9.jpg)
 ![ba97b1709dfc8fa6aeae24fd4af9ac4d-1](https://user-images.githubusercontent.com/85193519/122583542-fa305580-d01e-11eb-9501-9395e1fcb622.jpg)
